@@ -20,3 +20,11 @@ Live demo: https://crystal32378.github.io/truth-translator/
 A cinephile watchlist tracker for major film awards and festival winners, with 300+ draft film entries and an active Taiwan / Hong Kong / China title-verification plan.  
 Built as a static community tool, with ZCode support for title verification planning.  
 Live demo: https://crystal32378.github.io/cinephile-radar/
+
+## Private / In-progress Experiments
+
+### AI Game Simulation Research
+A private social deduction and civilization-simulation experiment exploring role design, information inheritance, collective reasoning, and multi-agent gameplay.
+
+### Life Blind Box
+A private playful reflection prototype built around drawing a life prompt, possibility, or small surprise from a digital blind box.
