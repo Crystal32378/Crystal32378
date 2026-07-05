@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Crystal Chang
 
-<!--
-**Crystal32378/Crystal32378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder / PM experimenting with AI-assisted cultural interfaces, decision-support rituals, and community web toys.
 
-Here are some ideas to get you started:
+I use GPT for product planning, positioning, and strategic framing; Codex for implementation, documentation, and repo workflows; and ZCode / GLM-5.2 for UI review, Chinese-language context review, and data-verification planning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Draw One
+A digital ritual interface inspired by Taiwanese fortune-drawing culture.  
+Built with GPT + Codex, with ZCode support for UI direction and Chinese oracle-poem context review.  
+Submitted to the OpenAI Showcase Gallery.  
+Live demo: https://crystal32378.github.io/draw-one/
+
+### Truth Translator
+A static web toy that translates announcements, emails, PR language, and corporate-speak into plain human language.  
+Live demo: https://crystal32378.github.io/truth-translator/
+
+### Cinephile Radar
+A cinephile watchlist tracker for major film awards and festival winners, with 300+ draft film entries and an active Taiwan / Hong Kong / China title-verification plan.  
+Built as a static community tool, with ZCode support for title verification planning.  
+Live demo: https://crystal32378.github.io/cinephile-radar/
